@@ -28,7 +28,7 @@ function setup() {
 
 
 function draw() {
-  background("pink");
+  background("black");
 
   if(isTouching(car,wall))
   {
